@@ -49,8 +49,11 @@
   },
   "AABO": {
     "jerseys": [
+      {"code": "YUBTrbz", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "Vp7TDOz", "ballAlpha": 1, "jerseyAlpha": 1},
       {"code": "0Ukz9AT", "ballAlpha": 1, "jerseyAlpha": 1},
-      {"code": "2NeFSIE", "ballAlpha": 1, "jerseyAlpha": 1}
+      {"code": "2NeFSIE", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "cxBt10Z", "ballAlpha": 1, "jerseyAlpha": 1}
     ]
   },
   "AACS": {
@@ -529,8 +532,11 @@
   },
   "BABO": {
     "jerseys": [
+      {"code": "YUBTrbz", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "Vp7TDOz", "ballAlpha": 1, "jerseyAlpha": 1},
       {"code": "0Ukz9AT", "ballAlpha": 1, "jerseyAlpha": 1},
-      {"code": "2NeFSIE", "ballAlpha": 1, "jerseyAlpha": 1}
+      {"code": "2NeFSIE", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "cxBt10Z", "ballAlpha": 1, "jerseyAlpha": 1}
     ]
   },
   "BBAP": {
@@ -985,7 +991,10 @@
   "MABO": {
     "jerseys": [
       {"code": "YUBTrbz", "ballAlpha": 1, "jerseyAlpha": 1},
-      {"code": "Vp7TDOz", "ballAlpha": 1, "jerseyAlpha": 1}
+      {"code": "Vp7TDOz", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "0Ukz9AT", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "2NeFSIE", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "cxBt10Z", "ballAlpha": 1, "jerseyAlpha": 1}
     ]
   },
   "MAC": {
