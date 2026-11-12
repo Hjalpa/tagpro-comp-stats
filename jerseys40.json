@@ -1995,7 +1995,11 @@
   "MFWO": {
     "jerseys": [
       {"code": "w5ewgvC", "ballAlpha": 1, "jerseyAlpha": 1},
-      {"code": "fg7J6Ot", "ballAlpha": 1, "jerseyAlpha": 1}
+      {"code": "fg7J6Ot", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "KSvNPni", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "f903GVF", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "bwnIju8", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "3hEXae6", "ballAlpha": 1, "jerseyAlpha": 1},
     ]
   },
   "AGAS": {
@@ -2049,13 +2053,21 @@
   "AFWO": {
     "jerseys": [
       {"code": "w5ewgvC", "ballAlpha": 1, "jerseyAlpha": 1},
-      {"code": "fg7J6Ot", "ballAlpha": 1, "jerseyAlpha": 1}
+      {"code": "fg7J6Ot", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "KSvNPni", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "f903GVF", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "bwnIju8", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "3hEXae6", "ballAlpha": 1, "jerseyAlpha": 1},
     ]
   },
   "NFWO": {
     "jerseys": [
       {"code": "w5ewgvC", "ballAlpha": 1, "jerseyAlpha": 1},
-      {"code": "fg7J6Ot", "ballAlpha": 1, "jerseyAlpha": 1}
+      {"code": "fg7J6Ot", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "KSvNPni", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "f903GVF", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "bwnIju8", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "3hEXae6", "ballAlpha": 1, "jerseyAlpha": 1},
     ]
   },
   "AODG": {
