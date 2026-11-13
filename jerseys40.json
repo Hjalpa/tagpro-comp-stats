@@ -387,8 +387,11 @@
   },
   "AQUE": {
     "jerseys": [
+      {"code": "g93OMSO", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "lMYQPlS", "ballAlpha": 1, "jerseyAlpha": 1},
       {"code": "7VPqkTi", "ballAlpha": 1, "jerseyAlpha": 1},
       {"code": "IzfR9g9", "ballAlpha": 1, "jerseyAlpha": 1}
+
     ]
   },
   "AREE": {
@@ -797,8 +800,11 @@
   },
   "BQUE": {
     "jerseys": [
+      {"code": "g93OMSO", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "lMYQPlS", "ballAlpha": 1, "jerseyAlpha": 1},
       {"code": "7VPqkTi", "ballAlpha": 1, "jerseyAlpha": 1},
       {"code": "IzfR9g9", "ballAlpha": 1, "jerseyAlpha": 1}
+
     ]
   },
   "BREV": {
@@ -1266,7 +1272,9 @@
   "MQUE": {
     "jerseys": [
       {"code": "g93OMSO", "ballAlpha": 1, "jerseyAlpha": 1},
-      {"code": "lMYQPlS", "ballAlpha": 1, "jerseyAlpha": 1}
+      {"code": "lMYQPlS", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "7VPqkTi", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "IzfR9g9", "ballAlpha": 1, "jerseyAlpha": 1}
     ]
   },
   "MRKT": {
@@ -1785,7 +1793,10 @@
   "NQUE": {
     "jerseys": [
       {"code": "g93OMSO", "ballAlpha": 1, "jerseyAlpha": 1},
-      {"code": "lMYQPlS", "ballAlpha": 1, "jerseyAlpha": 1}
+      {"code": "lMYQPlS", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "7VPqkTi", "ballAlpha": 1, "jerseyAlpha": 1},
+      {"code": "IzfR9g9", "ballAlpha": 1, "jerseyAlpha": 1}
+
     ]
   },
   "NRLL": {
